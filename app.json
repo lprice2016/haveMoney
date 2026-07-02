@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "等我有钱了",
+    "slug": "deng-wo-you-qian-le",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "richdream",
+    "splash": {
+      "backgroundColor": "#FFF8EF"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lprice2016.richdream",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.lprice2016.richdream"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

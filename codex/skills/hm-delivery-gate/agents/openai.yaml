@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Delivery Gate"
+  short_description: "Gate H5 or app implementation after validation"
+  default_prompt: "Use $hm-delivery-gate to decide the smallest safe implementation path for 等我有钱了."

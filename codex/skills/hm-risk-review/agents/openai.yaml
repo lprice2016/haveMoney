@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Risk Review"
+  short_description: "Review finance, game, and content risks"
+  default_prompt: "Use $hm-risk-review to review 等我有钱了 for App Store, finance, gambling, and content risks."

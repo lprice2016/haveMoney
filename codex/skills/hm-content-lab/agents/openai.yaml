@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Content Lab"
+  short_description: "Create and score shareable content samples"
+  default_prompt: "Use $hm-content-lab to create and score viral content samples for 等我有钱了."

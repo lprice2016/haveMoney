@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Design Language"
+  short_description: "Shape brand voice and share-card design"
+  default_prompt: "Use $hm-design-language to define the voice and share-card design for 等我有钱了."

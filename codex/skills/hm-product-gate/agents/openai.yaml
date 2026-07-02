@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Product Gate"
+  short_description: "Validate product direction before building"
+  default_prompt: "Use $hm-product-gate to judge whether a HaveMoney product idea should move forward."

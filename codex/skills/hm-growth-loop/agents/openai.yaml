@@ -1,0 +1,4 @@
+interface:
+  display_name: "HM Growth Loop"
+  short_description: "Plan share loops and viral validation tests"
+  default_prompt: "Use $hm-growth-loop to design share loops and validation tests for 等我有钱了."
